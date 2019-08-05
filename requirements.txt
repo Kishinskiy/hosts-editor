@@ -1,0 +1,2 @@
+python-hosts==0.4.5
+win-inet-pton==1.0.1

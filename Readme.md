@@ -1,5 +1,10 @@
 # Hosts Editor
 
+# install:
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage:
 ```bash
 python PyHosts.py -p Ip_address -n domain_name alias

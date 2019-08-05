@@ -1,9 +1,12 @@
 #!/usr/bin/python
 # -*- coding: UTF-8 -*-
 
-from python_hosts.hosts import Hosts, HostsEntry
-import argparse, sys
+import argparse
 import platform
+import sys
+
+from python_hosts.hosts import Hosts, HostsEntry
+
 
 def parse_input():
     parser = argparse.ArgumentParser()
